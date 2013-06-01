@@ -1,7 +1,7 @@
-google-shape-encoder-decoder
+Algorithm for encoding and decoding Google map shapes. 
 ============================
-
-Google Map Shapes Encode / Decode algorithm that is fast and lightweight.  Google only encodes polygons, this encodes all shapes. 
+Faster and better compression than googles own polygon encoder.
+Google only encodes polygons, this encodes all shapes. 
 
 
 TODO:
